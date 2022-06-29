@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CompareRunTime2:jar3">
+    <output-path>$PROJECT_DIR$/out/artifacts/CompareRunTime2_jar3</output-path>
+    <root id="archive" name="CompareRunTime2.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/Freq/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="CompareRunTime2" />
+      <element id="extracted-dir" path="$USER_HOME$/algs4/algs4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

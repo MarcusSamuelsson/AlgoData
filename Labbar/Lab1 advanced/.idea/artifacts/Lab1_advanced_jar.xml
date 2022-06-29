@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Lab1 advanced:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab1_advanced_jar</output-path>
+    <root id="archive" name="Lab1 advanced.jar">
+      <element id="module-output" name="Lab1 advanced" />
+      <element id="extracted-dir" path="$USER_HOME$/algs4/algs4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
